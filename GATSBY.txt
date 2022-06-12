@@ -1,0 +1,7 @@
+Hello everyone this side AYUSH SINGODIA FRONTEND DEVLOPER FROM INDIA.
+So guy's today i'm talk about Gatsby opensource contribution platform ,so bascically guy's
+ Gatsby is Gatsby helps create and inspire improvements to the web, a critical resource for all of humanity. 
+We do this by shortening the time to experiment, to collaborate around changes, and to deploy incremental improvements.
+Gatsby provides development teams an open source frontend framework for creating dynamic,
+ blazing-fast websites and a cloud platform for delivering them on a blazing fast edge network.
+Gatsby enables developers to build fast, secure, and powerful websites using a React-based framework and innovative data layer that makes integrating different content, APIs, and services into one web experience incredibly simple.
